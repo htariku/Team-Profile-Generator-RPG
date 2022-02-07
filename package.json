@@ -1,0 +1,29 @@
+{
+  "name": "team-profile-generator-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htariku/Team-Profile-Generator-RPG.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htariku/Team-Profile-Generator-RPG/issues"
+  },
+  "homepage": "https://github.com/htariku/Team-Profile-Generator-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "material-design-icons": "^3.0.1"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}

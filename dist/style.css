@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: rgb(150, 173, 238);
+    --secondary: white;
+}
+
+body {
+    font-family: 'Allerta Stencil', sans-serif;
+}
+
+#navbar {
+    background-color: var(--primary);
+    color: var(--secondary);
+    font-size: 70px;
+}
+
+.navbar-brand {
+    font-size: 75 px;
+}
+
+
+.card-header {
+    background-color: var(--primary);
+    color: var(--secondary);
+}
+
+.card-body {
+    background-color: var(--secondary);
+    color: var(--primary);
+}
+
+.container {
+    margin: 100px auto;
+    justify-content: space-between;
+    display: flex;
+    
+}
