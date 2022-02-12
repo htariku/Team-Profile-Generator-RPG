@@ -22,7 +22,7 @@ THEN I exit the application, and the HTML is generated
 
  <img width="1337" alt="Screen Shot 2022-02-06 at 7 28 17 PM" src="https://user-images.githubusercontent.com/94089824/152708363-844e37b7-dfc4-4f5a-a6d7-d349213e67c9.png">
 
- https://watch.screencastify.com/v/gvYLSMM2SuCGkGAVMhki
+https://watch.screencastify.com/v/Nn3om43hIn3ANKw5WyJw
 
 
    # Table of Content: 
